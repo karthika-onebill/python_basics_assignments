@@ -1,0 +1,18 @@
+
+--------------------------DAY 1 - PYTHON ASSIGNMENTS QUESTIONS-----------------------------
+
+1) Read 3 numbers and print max value using ternary operator . (don’t use pre defined functions)
+2) Read 2 no's and compare the numbers whether 1st number is equal/greater/smaller  to 2nd number using Ternary operator
+3) program for sum of first n numbers
+4) program to reverse characters of a string   like  Input   :  Testyantra   Output:  artnaytseT  (with and without using slice operator)
+5) program to remove duplicate characters of the string      Input : mississippi   Output:misp
+6) program how many times  each character present in string
+7) Reverse Word  by Word  Input: Test Yantra    Output: tseT artnaY
+8) program to check whether given sub-string present in the main string
+9) program to check given two strings are equal or not  if not  which is smaller and bigger
+10) program Input : TestYantra SoftWare Solutions  output: Solutions SoftWare Testyantra
+11) program to print characters at the odd positions first followed by even position characters    Input: SOFTWARE   Output:OTAESFWR  (with and without slice operator)
+12) program to merge characters of 2 strings into a single string by  taking characters alternatively.   Input : S1= "ravi" S2="teja" output: rtaevjia
+13) program Input: a4b3c2 Output:aaaabbbcc   (characters followed by digits print characters those many number of times)
+14) program Input: a4k3b2  Output:aeknbd (ie  After a 4rth character e ..after k 3rd character n after b 2nd character d)
+
