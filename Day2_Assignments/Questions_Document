@@ -1,0 +1,101 @@
+--------------------DAY 2  - PYTHON BASICS ASSIGNMENTS----------------------------
+
+1) Given an integer,n, perform the following conditional actions:
+            If n is odd, print Weird
+            If n is even and in the inclusive range of  2 to 5, print Not Weird
+            If n is even and in the inclusive range of 6 to 10 , print Weird
+            If n is even and greater than 20 , print Not Weird
+                Input Format : A single line containing a positive integer,n .
+                Constraints : 1≤n≤100
+                Output Format : Print Weird if the number is weird; otherwise, print Not Weird.
+
+2) Read an integer N . For all non-negative integers i<N , print i². See the sample for details.
+            Input Format :The first and only line contains the integer,N .
+            Constraints : 1≤N≤20
+            Output Format : Print N lines, one corresponding to each i .
+                                                                                                               Sample Input  : 5
+                                                                                                               Sample Output : 0  
+1
+4
+9
+16
+
+3)  You are given the year, and you have to write a function to check if the year is leap or not.
+        Input Format : Read y, the year that needs to be checked.
+        Constraints: 1900≤y≤100000
+        Output Format : Boolean(True/False
+        Sample Input : 1990
+        Sample Output  : False
+
+4)Given the participants' score sheet for your University Sports Day. you are required to find the runner-up score.
+             You are given n scores. Store them in a list and find the score of the runner-up.
+            Input Format: The first line contains n . The second line contains an array A[] of n integers each separated by a space.
+            Constraints : 2≤n≤5
+                                     -100≤A[i]≤100
+            Output Format : Print the runner-up score.
+            Sample Input : 5
+                                          2 3 6 6 5
+             Sample Output : 5
+
+5) given a string and your task is to swap cases. In other words, convert all lowercase letters to uppercase letters and vice versa.
+     Like Pythonist 2  to pYTHONIST 2.
+ 
+6)You are given a string. Split the string on a " " (space) delimiter and join using a - hyphen.
+           Input Format : The first line contains a string consisting of space separated words.
+           Output Format :Print the formatted string as explained above.
+            Sample Input :this is a string   
+          Sample Output :this-is-a-string
+
+7) Read a given string, change the character at a given index and then print the modified string.
+  Input Format :The first line contains a string,S.
+                The next line contains an integer i, denoting the index location and a character c separated by a space.
+  Output Format: Using any of the methods explained above, replace the character at index i with character c .
+  Sample Input : abracadabra
+                                5 k
+  Sample Output : abrackdabra
+
+8) the user enters a string and a substring. You have to print the number of times that the substring occurs in the given string
+
+9)You are given a string S.Your task is to find out 
+  if the string S contains: alphanumeric characters, alphabetical characters, digits, lowercase and uppercase characters.
+  Input Format : A single line containing a string S .
+  Constraints : 0 ≤ len(S) ≤1000
+  Output Format:
+       In the first line, print True if  has any alphanumeric characters. Otherwise, print False.
+      In the second line, print True if  has any alphabetical characters. Otherwise, print False.
+      In the third line, print True if  has any digits. Otherwise, print False.
+      In the fourth line, print True if  has any lowercase characters. Otherwise, print False.
+      In the fifth line, print True if  has any uppercase characters. Otherwise, print False.
+ Sample Input : qA2
+  Sample Output :
+                                  True
+                                  True
+                                  True
+                                  True
+                                  True
+
+10)Read a list and sort it in reverse of default natural sorting order..(using sort(reverse=True))
+   Sample Input : [20,5,16,19,4]
+   Sample Output: [20,19,16,5,4]
+
+11)Enter Nested list and print it as matrix
+    Sample Input : [[1,2,3],[4,5,6],[7,8,9]]
+    Sample Output: elements in matrix style
+                     1 2 3
+                     4 5 6
+                     7 8 9
+
+
+12) Using List Comprehension 
+       a) print powers of 2 in  range(1,10)
+       b) print squares in range(1,15)
+       c) print double of number in range (1,40) and number should be even
+
+13) program to display unique vowels present in the given word(using list and also using set intersection).
+14) program to take a tuple of numbers from keyboard and print its sum and average.
+15) program to eleminate duplicates present in the list? (with and without using set function)
+16) program to take dictionary from keyboard and print the sum of values.
+17) program to accept student name and marks from keyboard and create a dictionary .Also display student marks by taking student name as input
+18) program to find number of occurences of each letter present in the given string
+19) program to find number of occurences of each vowel present in the given string.
+20) Input n persons weight and find average of distinct weights.  ( Note : distinct weights average not an average of weights)
