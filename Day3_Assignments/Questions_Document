@@ -1,0 +1,16 @@
+---------------------Day 3 - Assignments-----------------------
+
+1)  Write a Python Function to find factorial of given number with recursion. 
+2)  Write a program to create a lambda function to find square of given number? 
+3) Lambda Function to find biggest of 3 given values. 
+4) program to generate fibonacci series
+5) program to filter only even number from the list by using filter() function? (with and with out lambda function)
+6) program to print sum of elements of the list  using reduce() function
+7) write a program to generate 6 digit random number as OTP
+8) program to generate random password of length 6 where 1st 3rd 5th are alphabet symbols 2nd 4rth 6th are digits (like a3b5d6)
+9) Given a list of rational numbers,find their product.
+10) You are given a date. Your task is to find what the day is on that date.
+11) program for nth fibonacci number
+12) program to print ASCII Value of character
+13) Given a dictionary and a character array, print all valid words that are possible using characters from the array.
+14) program to convert time from 12 hour to 24 hour format
