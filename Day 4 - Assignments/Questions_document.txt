@@ -1,0 +1,91 @@
+1) Create a decorator to print a statement n no. of times.
+	n is the number of times you want to print a statement
+			   Example INPUT/OUTPUT 1
+					What do you want to print?
+					>> Hello World
+					How many times do you want to print the statement?
+					>> 5
+					#OUTPUT
+							Hello World
+							Hello World
+							Hello World
+							Hello World
+							Hello World
+							
+				Example INPUT/OUTPUT 2
+						What do you want to print?
+						>> Stranger Things
+						How many times do you want to print the statement?
+						>> 0
+						#OUTPUT
+						
+				Example INPUT/OUTPUT 3
+						What do you want to print?
+						>> Stranger Things
+						How many times do you want to print the statement?
+						>> -1
+						#OUTPUT
+						Please provide a positive number
+				Example INPUT/OUTPUT 4
+						What do you want to print?
+						>> Stranger Things
+						How many times do you want to print the statement?
+						>> 3
+						# OUTPUT
+						Stranger Things
+						Stranger Things
+						Stranger Things
+						
+------------------------------------------------------------------------
+2) Define a class named Circle which can be constructed by a radius. 
+  Compare two circles objects and return True if circles are equal. 
+  Return False if circles are not equal
+  Take radius of these circles through Input
+(Write the code in operator_overloading concept)
+			Expected Input/Output 1:
+				Enter Radius of Circle 1: 2
+				Enter Radius of circle 2: 4
+				Output: False
+				
+			Expected Input/Output 2:
+				Enter Radius of Circle 1: 8
+				Enter Radius of circle 2: 8
+				Output: True
+-------------------------------------------------------------------------
+3) Define a class named Rectangle which can be constructed by a length and width.
+ The Rectangle class has a method which can compute the area.
+		Expected Input/Output 1:
+				Enter length of rectangle: 2
+				Enter breadth of rectangle: 2
+				Area of rectangle: 4
+		
+		Expected Input/Output 2:
+			Enter length of rectangle: 1
+			Enter breadth of rectangle: 1
+			Area of rectangle: 1
+---------------------------------------------------------------------------
+4)Define a class named Circle which can be constructed by a radius. 
+The Circle class has 4 methods which can
+	1.compute the circumference and
+	2.area of both circle
+	3.able to add two circles
+	4.Compare two circles and find which is bigger
+	5.Check if the circles are equal
+	
+Expected Input/Output 1:
+	Enter radius of Circle 1: 2
+	Enter radius of Circle 2: 4
+	Circumference if circle 1: 12.56
+	Circumference if circle 2: 25.12
+	Area of circle 1: 12.56
+	Area of circle 2: 50.24
+	Circle 2 is bigger than Circle 1
+	
+Expected Input/Output 2:
+	Enter radius of Circle 1: 4
+	Enter radius of Circle 2: 4
+	Circumference if circle 1: 25.12
+	Circumference if circle 2: 25.12
+	Area of circle 1: 50.24
+	Area of circle 2: 50.24
+	Both Circle are Equal			
