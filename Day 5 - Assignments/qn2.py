@@ -1,0 +1,10 @@
+def toFindBMI(weight,height) :
+    bmi = round(weight/ (height * height), 1)
+    if(bmi<18.5) : print("Your BMI is ",bmi,"which means you are low healthy")
+    elif(18.5<=bmi and bmi<=24.9) : print("Your BMI is ",bmi,"which means you are healthy")
+    else : print("Your BMI is ",bmi,"which means you are obese.")
+name = input("What is your Name:")
+age = int(input("Hi "+name+", What is your Age?"))
+weight = float(input("What is your Weight in Kg?"))
+height = float(input("What is your Height in metres?"))
+toFindBMI(weight,height)
